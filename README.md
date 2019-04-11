@@ -1,27 +1,33 @@
-# Speed
+`# Speed Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.2.
+Projeto idealizado em cima do teste para Desensenvolvedor** Front End com foco em Ux,** fiz algumas composições e cheguei ao resultado apresentado, realizei esse teste em aproximadamente 8 horas, sendo distribuidas entre desenho,  desenvolvimento e testes, utilizei Bootstrap para facilitar o desenvolvimento  e criei algumas classaes no css para melhorar o visual.
 
-## Development server
+Utilizei** Angular 7** e **ngx Gauge** para gerar o Spinners, utilizei também de  **Font Awesome** para Iconesr.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Quanto ao medidor de velocidade (Bom fraco e medio), fiz uma "simulação" os valores não são reias já que meu javascript gera números aleatórios de 90 a 100 apenas.
 
-## Code scaffolding
+Tive vários insights sobre o que colocar e pensei em uma proxima feature colocar se fato o plugin para meidr a internet da pessoa  e ter um medidor mais real, e aiunda sugerir se sua internet é boa para oseu dia a dia .
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+> **Fiz apenas 2 wireframes um teste e não gostei e depois fiz outro que gostei mais.**
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
+eles estão na pasta wireframes.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Fico á disposição.
+
+**Após baixar o projeto**
+
+    npm install
+
+**Rode o projeto lolcalmente**
+
+
+        ng serve
+    	
+
+`
