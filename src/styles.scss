@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+html {
+  height: 100%;
+  background-image: linear-gradient(to right top, #3a3a3e, #3d3f4d, #3f435c, #3f496c, #3d4e7c, #365b8d, #28699d, #0077ac, #008fb4, #00a4a8, #00b68f, #75c470);
+  background-attachment: fixed;
+}
+
+body{
+  font-family:Roboto, sans-serif;
+
+  background-color: transparent !important;
+  height: 100%;
+
+}

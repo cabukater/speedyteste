@@ -1,0 +1,39 @@
+<!--The content below is only a placeholder and can be replaced.-->
+
+<app-header></app-header>
+<div class="container mb-5 pb-5">
+  <div class="row">
+    <div class="col-12">
+      <div class="text-center  p-5">
+
+        <ngx-gauge [type]="gaugeType" [thick]="gaugeThick" [thresholds]="thresholdConfig" animate="true"
+          [size]="gaugeSize" [value]="downloadTx" [label]="gaugeLabel" >
+        </ngx-gauge>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col text-center">
+      <button class="btn btn-outline-light btn-lg" (click)="run()" *ngIf="actButton">
+        Refazer o teste
+      </button>
+    </div>
+  </div>
+  <div class="box-history" *ngIf="user != null">
+    <div class="row m-5">
+      <div class="col text-center">
+        <h2 class="display-5 font-weight-light">  ultimos {{lastSpeed.length}} testes </h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 col-md-3 border text-center" *ngFor="let vel of lastSpeed.slice().reverse()">
+        <p class="p-2 display-4"> {{ vel }}<span
+            class="font-weight-light  small-text text-uppercase {{vel | check}}"> | {{vel | check}}</span> </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<app-footer mt-5>
+
+</app-footer>
