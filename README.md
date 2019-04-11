@@ -2,7 +2,7 @@
 
 Projeto idealizado em cima do teste para Desensenvolvedor** Front End com foco em Ux,** fiz algumas composições e cheguei ao resultado apresentado, realizei esse teste em aproximadamente 8 horas, sendo distribuidas entre desenho,  desenvolvimento e testes, utilizei Bootstrap para facilitar o desenvolvimento  e criei algumas classaes no css para melhorar o visual.
 
-Utilizei** Angular 7** e **ngx Gauge** para gerar o Spinners, utilizei também de  **Font Awesome** para Iconesr.
+Utilizei **Angular 7** e **ngx Gauge** para gerar o Spinners, utilizei também de  **Font Awesome** para Iconesr.
 
 Quanto ao medidor de velocidade (Bom fraco e medio), fiz uma "simulação" os valores não são reias já que meu javascript gera números aleatórios de 90 a 100 apenas.
 
