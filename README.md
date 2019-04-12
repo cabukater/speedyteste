@@ -15,9 +15,9 @@ Projeto idealizado para vaga de **Desensenvolvedor Front End com foco em Ux,** f
 
 ## Features futuras
 
-Tive vários insights sobre o que colocar e pensei em uma proxima feature  ** componetizar** e separar item por item (tabela ter seu componente, o velocimetro outro e assimj por diante) para assim ser mais fácil manutenção e reutilização em outros projetos incluir também   o plugin para meidr a internet da pessoa  e ter um medidor  real, e ainda sugerir se sua internet é boa para oseu dia a dia (jogos, stream, emails etc ), porém devido por questão de tempo não foi possivel incluir tais funções.
+Tive vários insights sobre o que colocar e pensei em uma proxima feature  **componetizar** e separar item por item (tabela ter seu componente, o velocimetro outro e assimj por diante) para assim ser mais fácil manutenção e reutilização em outros projetos incluir também   o plugin para meidr a internet da pessoa  e ter um medidor  real, e ainda sugerir se sua internet é boa para oseu dia a dia (jogos, stream, emails etc ), porém devido por questão de tempo não foi possivel incluir tais funções.
 
-## Wireframe
+### Wireframe
 
 > **Estão localizadas na pasta \wireframes foram desenhos que seguiram a mesma estrutura porém mudava alguns itens fiz algumas correções da exibição da Wireframe e evolui ela para a ultima (que está no repositorio).**
 
