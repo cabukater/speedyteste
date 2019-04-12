@@ -19,7 +19,7 @@ Tive vários insights sobre o que colocar e pensei em uma proxima feature  ** co
 
 Fico á disposição,  e agradeço a compreensão.
 
-** COMO RODAR O PROJETO ?**
+**COMO RODAR O PROJETO ?**
 
 **Após baixar o projeto**
 
